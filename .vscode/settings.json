@@ -1,0 +1,9 @@
+{
+  "files.exclude": {},
+  "javascript.format.enable": false,
+  "eslint.autoFixOnSave": false,
+  "prettier.eslintIntegration": false,
+  "editor.formatOnSave": true,
+  "json.format.enable": true,
+  "jest.autoEnable": false
+}
