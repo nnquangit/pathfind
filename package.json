@@ -1,13 +1,15 @@
 {
   "name": "pathfind-js",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Pathfind A* algorithm in javascript",
-  "main": "dist/how-long-till-lunch.cjs.js",
-  "module": "dist/how-long-till-lunch.esm.js",
-  "browser": "dist/how-long-till-lunch.umd.js",
-  "dependencies": {
-    "ms": "^2.0.0"
+  "main": "dist/pathfind.cjs.js",
+  "module": "dist/pathfind.esm.js",
+  "browser": "dist/pathfind.umd.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nnquangit/pathfind.git"
   },
+  "dependencies": {},
   "devDependencies": {
     "rollup": "^1.0.0",
     "rollup-plugin-commonjs": "^9.2.0",
