@@ -1,6 +1,6 @@
 {
   "name": "pathfind-js",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "Pathfind A* algorithm in javascript",
   "main": "dist/pathfind.cjs.js",
   "module": "dist/pathfind.esm.js",
